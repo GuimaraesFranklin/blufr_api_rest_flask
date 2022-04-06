@@ -16,8 +16,6 @@ books_db = [
 ]
 
 @api.route('/books')
-def method_name():
-    pass
 class BookList(Resource):
     def get(self):
         return books_db
