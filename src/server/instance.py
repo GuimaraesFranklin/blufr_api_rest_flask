@@ -8,7 +8,7 @@ class Server():
                        version='0.0.1',
                        title='bank api',
                        description='Api Bank',
-                       doc='/docs'
+                       doc='/docs',
                        )
     def run(self):
         self.app.run(
