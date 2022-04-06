@@ -1,1 +1,1 @@
-#Este projeto tem intuito educativo acerca do desenvolvimento básico de uma API Rest com o framework Flask da linguagem Python
+Este projeto tem intuito educativo acerca do desenvolvimento básico de uma API Rest com o framework Flask da linguagem Python
